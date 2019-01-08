@@ -2,7 +2,8 @@ VESTELLA Blockchain Project
 ===================
 
 
-This repository contains the contract code of [VESTELLAToken](https://etherscan.io/token/0xf8b358b3397a8ea5464f8cc753645d42e14b79ea), and contracts used from our public token sale period.  
+This repository contains the contract code of [VESTELLAToken](https://etherscan.io/token/0x03452e69ffcd9c45ca34ff4d9ba2209d38a8d56a), 
+- and contracts used from our public token sale period.  
 
 
 ## ERC-20 Deployment
