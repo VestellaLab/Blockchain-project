@@ -24,6 +24,6 @@ and contracts used from our public token sale period.
 
 - That folder contains whitepapers and onepagers of the VESTELLA Project.  
 
-1. Whitepaper [ENG](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(eng).pdf) [KOR](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(kor).pdf) [CHN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(chn).pdf) [JPN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(jpn).pdf)
+1. Whitepaper : Introduction of the VESTELLA Platform [ENG](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(eng).pdf) [KOR](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(kor).pdf) [CHN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(chn).pdf) [JPN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(jpn).pdf)
 
-2. Onepager [ENG](https://vestella.io/static/pager/onepager/Vestella_onepager_181220_Eng.pdf) [KOR](https://vestella.io/static/pager/onepager/Vestella_onepager_181220_Kor.pdf) [CHN](https://vestella.io/static/pager/onepager/Vestella_onepager_181224_Chn.pdf) [JPN](https://vestella.io/static/pager/onepager/Vestella_onepager_181224_Jpn.pdf)
+2. Onepager : Simple information of the VESTELLA [ENG](https://vestella.io/static/pager/onepager/Vestella_onepager_181220_Eng.pdf) [KOR](https://vestella.io/static/pager/onepager/Vestella_onepager_181220_Kor.pdf) [CHN](https://vestella.io/static/pager/onepager/Vestella_onepager_181224_Chn.pdf) [JPN](https://vestella.io/static/pager/onepager/Vestella_onepager_181224_Jpn.pdf)
