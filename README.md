@@ -24,7 +24,7 @@ and contracts used from our public token sale period.
 
 That folder contains whitepapers of the VESTELLA Project.  
 
-1. Whitepaper : Introduction of the VESTELLA Platform [ENG](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(eng).pdf) [KOR](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181217(kor).pdf) [CHN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(chn).pdf) [JPN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_181224(jpn).pdf)
+1. Whitepaper : Introduction of the VESTELLA Platform [ENG](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_190110(eng).pdf) [KOR](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_190110(kor).pdf) [CHN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_190115(chn).pdf) [JPN](https://vestella.io/static/pager/whitepaper/vestella_whitepaper_190115(jpn).pdf)
 
 
 
